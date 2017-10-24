@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Agenda Vendas</string>
+    <string name="senha">Senha</string>
+    <string name="usuario">Usuário</string>
+    <string name="entrar">Entrar</string>
+    <string name="title_activity_tela_agenda">TelaAgenda</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_notificacao">Notificacao</string>
+    <string name="title_activity_notificao">Notificao</string>
+
+</resources>
